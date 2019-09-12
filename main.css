@@ -1,0 +1,37 @@
+/* 
+    Document   : main.css
+    Created on : Sep 12, 2019, 07:00:00 PM
+    Author     : AbedBadr
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#top-menu{
+    background: #ccccff;
+    color: #000066;
+}
+
+#top-menu li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px tahoma;
+}
+
+#aside-left{
+    border: 1px solid #990033;
+    float: left;
+    width: 200px;
+    margin: 30px 0px;
+    padding: 30px;
+    background: gray;
+}
+
+#aside-right{
+    border: 1px solid #990033;
+    float: left;
+    width: 200px;
+    margin: 30px 0px;
+    padding: 30px;
+    background: gray;
+}
